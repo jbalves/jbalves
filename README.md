@@ -1,4 +1,10 @@
-### Hi there 👋
+  ### Hi, I'm Jeferson Barros 👋
+ <ul>
+  <li>:briefcase: Android Engineer (Mobile App) [Java & Kotlin]  </li> 
+  <li>:hearts: Android Embedded (AOSP)</li>
+  <li>:computer: Linux Board Support Package</li>
+  <li>:pushpin: Curitiba, Paraná</li>
+ </ul>
 
 <!--
 **jbalves/jbalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
