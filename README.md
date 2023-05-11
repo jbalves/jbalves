@@ -2,7 +2,7 @@
  <ul>
   <li>:briefcase: Android Engineer (Mobile App) [Java & Kotlin]  </li> 
   <li>:hearts: Android Embedded (AOSP)</li>
-  <li>:computer: Linux Board Support Package</li>
+  <li>:computer: OS Linux Embedded (Board Support Package)</li>
   <li>:pushpin: Curitiba, Paraná</li>
  </ul>
 
