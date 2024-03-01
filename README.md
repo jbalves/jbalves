@@ -1,6 +1,7 @@
   ### Hi, I'm Jeferson Barros 👋
  <ul>
   <li>:briefcase: Android Engineer (Mobile App) [Java & Kotlin]  </li> 
+   <li>:briefcase: Backend Developer (Spring Boot) [Java & Kotlin]  </li> 
   <li>:hearts: Android Embedded (AOSP)</li>
   <li>:computer: OS Linux Embedded (Board Support Package)</li>
   <li>:pushpin: Curitiba, Paraná</li>
